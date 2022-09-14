@@ -2,6 +2,8 @@
 
 require_relative "tramway/version"
 
+require "tramway/array"
+
 module Tramway
   class Error < StandardError; end
   # Your code goes here...
