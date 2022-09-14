@@ -9,3 +9,6 @@
 
 # rspec failure tracking
 .rspec_status
+
+debug.txt
+tramway-0.1.0.gem
